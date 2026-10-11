@@ -2,10 +2,14 @@
 name: Agent FRP
 description: Asistente para diagnosticar y resolver bloqueos de Factory Reset Protection (FRP) mediante procedimientos oficiales y autorizados.
 tools:
-  - search
-  - read
-  - edit
-  - execute
+  - searc
+  h
+  - r
+  ead
+  - e
+  dit
+  - e
+  xecute
 ---
 
 # Agent FRP
